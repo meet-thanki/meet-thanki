@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Meet Bharatkumar Thanki 👋
 
-<!--
-**meet-thanki/meet-thanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science Engineering Student at Nirma University
+Welcome to my GitHub profile! I am a first-year CSE student using this space to track my engineering growth, store my lab code, and build real-world software.
 
-Here are some ideas to get you started:
+- 📈 **ACPC Merit Rank:** 37
+- 🐍 **Primary Language:** Python (5 Years Experience)
+- 🛠️ **Current Focus:** Mastering C Programming & Low-Level Memory Logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+[💼 LinkedIn](https://linkedin.com)
