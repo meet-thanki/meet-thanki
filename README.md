@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I am a first-year CSE student using this space to 
 ---
 
 ### 🌐 Connect with Me
-[💼 LinkedIn](https://linkedin.com)
+[💼 LinkedIn](https://linkedin.com/in/meet-thanki-27a65a41a)
